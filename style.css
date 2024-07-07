@@ -1,0 +1,95 @@
+/*
+This style code is orderd from first to last !!
+
+*/
+
+.parent {
+    background-color: #1f1f1f;
+    width: 450px;
+    height: 590px;
+    margin-top: 5rem;
+    margin-left: 32rem;
+    border-radius: 10px;
+}
+
+.personalImage {
+    width: 176px;
+    height: 176px;
+    border-radius: 50%;
+}
+
+.name {
+    font-size:24px;
+}
+
+.address {
+    font-size: 15px;
+    color: #ceef61;
+}
+
+.jobTitle {
+    color:#ffff;
+}
+/*
+This section contains every button and it's transtion ("Hover transation") !
+*/
+.btn1 {
+    width: 342px;
+    height: 45px;
+    background-color: #333333;
+    border-radius: 8px 8px 8px 8px;
+    border: 0px;
+    color: white;
+}
+
+.btn1:hover{
+    transition-duration: 1s;
+    background-color: white;
+    color: #333333;
+}
+.btn2 {
+    width: 342px;
+    height: 45px;
+    background-color: #333333;
+    border-radius: 8px 8px 8px 8px;
+    border: 0px;
+    color: white;
+}
+.btn2:hover{
+    transition-duration: 1s;
+    background-color: white;
+    color: #333333;
+}
+.btn3 {
+    width: 342px;
+    height: 45px;
+    background-color: #333333;
+    border-radius: 8px 8px 8px 8px;
+    border: 0px;
+    color: white;
+}
+.btn3:hover{
+    transition-duration: 1s;
+    background-color: white;
+    color: #333333;
+}
+.btn4 {
+    width: 342px;
+    height: 45px;
+    background-color: #333333;
+    border-radius: 8px 8px 8px 8px;
+    border: 0px;
+    color: white;
+}
+.btn4:hover{
+    transition-duration: 1s;
+    background-color: white;
+    color: #333333;
+}
+/*
+This code uses to style all button "DIVS" !!!
+*/
+.btn-con {
+    margin-top: 11px;
+    
+}
